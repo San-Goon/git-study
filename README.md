@@ -20,8 +20,8 @@ $ npm install
 $ npm start
 ```
 
-## Formula
+## Formula mathSyntax
 
 $$ y=x+1 $$
 
-Or, You can emphasize formula like $ y=x+1 $ ii.
+Or, You can emphasize formula like $y=x+1$ .
